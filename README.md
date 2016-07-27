@@ -1,2 +1,1 @@
-# Machine-Learning-by-Andrew-Ng-Coursera-Solutions
-This repository contains solutions for the programming assignments
+This repository contains my solutions for the programming assignments of the Machinne Learning MOOC on Coursera.
